@@ -1,1 +1,1 @@
-My first readme
+Este es el README principal del repositorio.
